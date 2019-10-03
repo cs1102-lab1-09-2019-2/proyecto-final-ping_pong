@@ -7,11 +7,11 @@
 Integrantes - (Usuarios Github:):
 --
 
-1.- <b>nombre_completo1</b><br>
-    <i>usuario_github1</i>
+1.- <b>Rafael Carbajal Valverde</b><br>
+    <i>Chafus</i>
 
-2.- <b>nombre_completo2</b><br>
-    <i>usuario_github2</i>
+2.- <b>Leonardo Gabriel Tarazona Flores</b><br>
+    <i>leonardo-tarazona</i>
 
 3.- <b>nombre_completo3</b><br>
     <i>usuario_github3</i>
