@@ -1,7 +1,7 @@
 #include "funciones.h"
 int main() {
     srand(time(nullptr));
-    int maps[10][10][10]={
+    int maps[10][10][10]={      //10 mapas
         {
             {0,1,0,1,0,0,1,0,1,1},
             {0,0,1,0,0,0,0,0,0,0},
@@ -132,7 +132,7 @@ int main() {
             {0,0,1,1,0,1,0,0,0,1}//10
         }
     };
-    int num_mapa=rand()%10;
+    int num_mapa=rand()%10; //escoge mapa random
     int** pmapa = new int*[10];
     
     array_a_puntero(pmapa, maps[num_mapa]);
