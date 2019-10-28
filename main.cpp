@@ -1,3 +1,4 @@
+#include "funciones.h"
 int main() {
     srand(time(nullptr));
     int maps[10][10][10]={
